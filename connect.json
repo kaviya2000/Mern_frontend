@@ -1,0 +1,61 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "todo": "kavi",
+      "id": 2
+    },
+    {
+      "todo": "kavi",
+      "id": 3
+    },
+    {
+      "todo": "sss",
+      "id": 4
+    },
+    {
+      "todo": "ggg",
+      "id": 5
+    },
+    {
+      "todo": "ggg",
+      "id": 6
+    },
+    {
+      "todo": "hhh",
+      "id": 7
+    },
+    {
+      "todo": "hhh",
+      "id": 8
+    },
+    {
+      "todo": "kaviya",
+      "id": 9
+    },
+    {
+      "todo": "swetha",
+      "id": 10
+    },
+    {
+      "todo": "harshini",
+      "id": "14",
+      "age": "18",
+      "gender": "Female"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

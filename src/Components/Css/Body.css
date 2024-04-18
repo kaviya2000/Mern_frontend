@@ -1,0 +1,17 @@
+.container {
+    text-align: center;
+  }
+  .centered-image {
+    display: block;
+    margin: 0 auto;
+  }
+  .double
+  {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: rgba(255, 255, 255, 0.8); 
+  max-width: 80%;
+
+  }
